@@ -176,8 +176,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🔗 Contact
 
-- GitHub: [@yourusername](https://github.com/Monis-Ahmed-Rizvi)
-- 
+- GitHub: [https://github.com/Monis-Ahmed-Rizvi](https://github.com/Monis-Ahmed-Rizvi)
+
 
 ---
 
